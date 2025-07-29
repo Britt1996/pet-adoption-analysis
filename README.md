@@ -39,10 +39,7 @@ This project analyzes shelter data to uncover patterns in pet adoption outcomes.
 -  [Presentation Slides (PDF)](link-here)
 -  [Shelter Data Source](https://www.shelterpetdata.org/)
 
-adopted_dog_breeds.jpeg
 
-age_counts.jpeg
----
 
 ##  Contact
 
